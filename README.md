@@ -9,7 +9,7 @@ The following patterns are included and ready to use:
 - Object Pool
 - Finite State Machine
 
-### Installing
+## Installing
 
 Download and install the unitypackage from the latest release
 
